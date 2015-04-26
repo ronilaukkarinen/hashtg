@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Hashtag it! - Tweet with clean hashtag conjuctions</title>
-        <meta name="description" content="You forgot to edit meta description. Not good.">
+        <meta name="description" content="Hashtag tool for Twitter. Tweet without having to use colons with hashtags.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="css/main.css">
