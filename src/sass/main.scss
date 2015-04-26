@@ -176,9 +176,10 @@ h1.c {
 .disclaimer {
 
 	@include krem('font-size', 13px);
-	@include krem('margin-top', 20px);
+	@include krem('margin-top', 100px);
 	line-height: 25px;
-	opacity: 0.5;
+	clear: both;
+	opacity: 0.2;
 	transition: 0.22s all;
 
 	&:hover {

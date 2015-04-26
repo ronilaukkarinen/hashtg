@@ -39,12 +39,10 @@
 
       </form>
 
-<!--     <footer>
-      <h1 class="c"><span class="fa fa-cc"></span></h1>
-      <p class="disclaimer">Maintained by <a href="http://twitter.com/rolle">@rolle</a><br />
-      Original script by <a href="http://twitter.com/kingi89">@kingi89</a><br />
-      Hosted by <a href="http://www.dude.fi"><span>DUDE</span></a></p>
-    </footer> -->
+    <footer>
+      <p class="disclaimer">Maintained by <a href="http://twitter.com/rolle">@rolle</a> &mdash; original script by <a href="http://twitter.com/kingi89">@kingi89</a> &mdash; hosted by <a href="http://www.dude.fi"><span>DUDE</span></a><br />
+      <a href="https://github.com/ronilaukkarinen/hashtg"><strong>View in Github</strong></a></p>
+    </footer>
 
       <script src="js/main.js"></script>
   </body>
